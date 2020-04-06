@@ -1,4 +1,4 @@
-**Assignment 2**
+# **Assignment #2**
 My source for inspiration this week came from a streetwear brand that dropped their spring/summer line over the weekend. I thought their colors were vibrant, fun, very on brand for the season, and would be interesting to work with in a map setting. I wanted to challenge myself by making a readable/useful map with a unique color scheme. Below is the images I used for inspiration and Adobe color trend's output (photo credit to Anti Social Social Club):
 
 
@@ -16,3 +16,5 @@ Screen Shot 2020-03-22 at 1.06.00 PM.png
 Between the two, I definitely preferred ArcGIS due to the familiarity with the program as well as the ability to create a base map and download it to use in future maps. This is very useful if I were to be working on a project that needed the same theme for multiple maps. However, the only downside is that ArcGIS is not free and I may not be able to use it in the future. This is one benefit of the Google Maps style, but still somewhat clunkier to use.
 
 I think it would be interesting to try out both tools again when I have a  problem that I was attempting to solve in order to get more creative with the color scheme and/or more purposeful with some of the choices I was making in design. I did keep a road transportation theme in this exercise, but by potentially looking at something specific I may have produced more exploration of the tools offered in each map style generator. Looking forward to trying them both out again.
+
+### [Click here to return to the main portfolio page](https://tburandt01.github.io/TaylorBurandt_AdvancedGIS/)
