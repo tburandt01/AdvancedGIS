@@ -3,11 +3,11 @@ My source for inspiration this week came from a streetwear brand that dropped th
 
 ![Here is the color scheme output from Adobe:](Screen Shot 2020-03-20 at 10.54.33 AM.png)
 
-[After customizing the many color features in ArcGIS online tool, I produced the map below:](Screen Shot 2020-03-26 at 11.50.48 AM.png)
+![After customizing the many color features in ArcGIS online tool, I produced the map below:](Screen Shot 2020-03-26 at 11.50.48 AM.png)
 
 I found that I somewhat succeeded in my challenge to make a readable map with a unique color scheme. (Aside from the patterns; those were left out of preference and added a fun element but would remove if using professionally). I was excited that the maps appeared relatively clear at all of the map scales that I tried, as seen in the image. As always being concerned with and excited about transportation, I was particularly happy with the roadways in that they stood out but were not overbearing. Additionally, the difference between highways and commuter roads was also very clear, but again not disruptive. Lastly, the hierarchical structure of the light green as the base of most of the land was subtle and allowed for the other features to be at the forefront.  
 
-[As a comparison, below is the map produced for the Google Maps exercise:](Screen Shot 2020-03-22 at 1.06.00 PM.png)
+![As a comparison, below is the map produced for the Google Maps exercise:](Screen Shot 2020-03-22 at 1.06.00 PM.png)
 
 Between the two, I definitely preferred ArcGIS due to the familiarity with the program as well as the ability to create a base map and download it to use in future maps. This is very useful if I were to be working on a project that needed the same theme for multiple maps. However, the only downside is that ArcGIS is not free and I may not be able to use it in the future. This is one benefit of the Google Maps style, but still somewhat clunkier to use.
 
