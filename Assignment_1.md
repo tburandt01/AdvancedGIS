@@ -13,4 +13,4 @@ After working with this Google product, I was not entirely sure how useful it wo
 
 [The JSON code can be found here.](/Burandt_JSON_Lab1_AdvancedGIS.rtf)
 
-### [Click here to return to the main portfolio page](https://tburandt01.github.io/Burandt_Portfolio/)
+### [Click here to return to the main portfolio page](https://tburandt01.github.io/TaylorBurandt_AdvancedGIS/)
