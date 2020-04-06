@@ -9,3 +9,5 @@ I hope to continue to expand my knowledge of ArcGIS Pro while I have access to i
 
 # **Portfolio**
 [Assignment #1](Assignment_1.md)
+[Assignment #2](Assignment_2.md)
+[Assignment #3](Assignment_3.md)
