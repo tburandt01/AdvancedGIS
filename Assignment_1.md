@@ -1,4 +1,4 @@
-# **Assignment #1**
+# **Custom Google Map**
 As most people right now, I miss being out and about and trying fun new foods/drinks. As such, I used a picture I took from a donut shop in NYC as inspiration for the assignment. I selected this photo because the colors were fun and unique, and I thought it would be an interesting theme to create a map with. 
 
 ![The image used for inspiration and the color scheme output from Canva:](Screen Shot 2020-03-20 at 10.54.33 AM.png)
