@@ -1,4 +1,4 @@
-# **Assignment #2**
+# **Custom ESRI Basemap**
 My source for inspiration this week came from a streetwear brand that dropped their spring/summer line over the weekend. I thought their colors were vibrant, fun, very on brand for the season, and would be interesting to work with in a map setting. I wanted to challenge myself by making a readable/useful map with a unique color scheme. Below is the images I used for inspiration and Adobe color trend's output (photo credit to Anti Social Social Club):
 
 ![Here is the color scheme output from Adobe:](/IMG_5.png)
