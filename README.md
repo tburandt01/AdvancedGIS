@@ -8,8 +8,10 @@ Hello, everyone! My name is Taylor (she/her/hers) and I am a second year MSPPM s
 I hope to continue to expand my knowledge of ArcGIS Pro while I have access to it. Additionally, I am looking forward to becoming more familiar with other tools if/when ArcGIS is not available in future professional settings. I am hoping to dive deeper into the relationship of geospatial data and the process of visualization such; especially effectively visualizing for a variety of audiences.
 
 # **Portfolio**
-[Assignment #1](Assignment_1.md) 
+[Custom Google Map](Assignment_1.md) 
 
-[Assignment #2](Assignment_2.md)
+[Custom ESRI Basemap](Assignment_2.md)
 
-[Assignment #3](Assignment_3.md)
+[MapBox Work](Assignment_3.md)
+
+[ESRI Dashbaord](FinalProject.md)
